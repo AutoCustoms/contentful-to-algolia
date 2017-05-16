@@ -6,4 +6,7 @@ ignore:
     - eslint > shelljs:
         reason: None given
         expires: '2017-05-16T11:00:34.063Z'
+    - eslint > shelljs:
+        reason: None given
+        expires: '2017-06-15T17:40:31.107Z'
 patch: {}
